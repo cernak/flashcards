@@ -9,4 +9,5 @@ https://hyperskill.org/tracks/5
   <li> CSS</li>
 </ul>
 
+<hr>
 More information at Project: Flashcards https://hyperskill.org/projects/115?track=5
