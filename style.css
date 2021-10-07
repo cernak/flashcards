@@ -1,0 +1,80 @@
+/*
+
+    Project: Flashcards
+    Description: Designed for JetBrains Academy Flashcards project
+	Author: Nick Cernak
+	Author URI: http://www.nickcernak.com/
+
+	Version: 1.0.0
+
+	License: GPL-2.0+
+	License URI: http://www.opensource.org/licenses/gpl-license.php
+ */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://stepik.org/media/attachments/lesson/374893/world.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Montserrat', serif;
+    text-align: center;
+    font-size: 36px;
+    color: rebeccapurple;
+}
+
+.flexbox-container {
+    position: relative;
+    display: flex;
+    font-family: 'Montserrat', serif;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 700px;
+}
+
+.flexbox-item {
+    background: silver;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 24px;
+    width: 190px;
+    height: 190px;
+    transform-style: preserve-3d;
+    transition: all 1s linear;
+}
+
+.front, .back {
+    position: center;
+    backface-visibility: hidden;
+}
+
+.front {
+    z-index: 2;
+}
+
+.back {
+    transform: rotateY(180deg);
+    z-index: 1;
+    color: indigo;
+}
+
+.flexbox-item:hover {
+    transform: rotateY(180deg);
+    background-color: fuchsia;
+}
+}
