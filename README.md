@@ -3,7 +3,7 @@ My work on the JetBrains Academy project for Flashcards, part of the Frontend De
 https://hyperskill.org/tracks/5
 
 <hr>
-## Technologies:
+<h1>Technologies:</h1>
 <ul>
   <li> HTML</li>
   <li> CSS</li>
