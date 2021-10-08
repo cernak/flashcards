@@ -11,3 +11,4 @@ https://hyperskill.org/tracks/5
 
 <hr>
 More information at Project: Flashcards https://hyperskill.org/projects/115?track=5
+Project start date: 10/1/21
