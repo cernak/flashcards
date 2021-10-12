@@ -12,4 +12,6 @@ https://hyperskill.org/tracks/5
 <hr>
 More information at Project: Flashcards https://hyperskill.org/projects/115?track=5<br>
 Project start date: 10/1/21<br>
-Project finish date: 10/10/21
+Project finish date: 10/10/21<br>
+
+My profile can be viewed at: https://hyperskill.org/profile/87088491
