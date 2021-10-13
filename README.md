@@ -14,4 +14,5 @@ More information at Project: Flashcards https://hyperskill.org/projects/115?trac
 Project start date: 10/1/21<br>
 Project finish date: 10/10/21<br>
 
-My profile can be viewed at: https://hyperskill.org/profile/87088491
+My profile can be viewed at: https://hyperskill.org/profile/87088491 <br>
+Jetrains Academy can be very frustrating and currently I would not recommend it. I'm not 100% satisfied with the lessons before the practices. 
